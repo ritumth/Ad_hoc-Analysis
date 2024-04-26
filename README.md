@@ -1,5 +1,3 @@
-**AtliQ Hardware**
-
 Atliq Hardware : A financial and sales analysis Challenge Provide Insights to Management in Consumer Goods Domain
 
 Domain Consumer Goods | Function : Excecutive Management
